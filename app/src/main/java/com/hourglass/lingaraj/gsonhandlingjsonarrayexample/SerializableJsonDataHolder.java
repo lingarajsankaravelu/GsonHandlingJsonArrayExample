@@ -17,7 +17,7 @@ public class SerializableJsonDataHolder implements Serializable {
 class ContactDetail
 {
     public String name;
-    public int phoneNumber;
+    public String phoneNumber;
     public String emailId;
     public String address;
 
